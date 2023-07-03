@@ -1,4 +1,4 @@
-### Hi there 👋
+[fole-del's Metrics](./github-metrics.svg)
 
 <!--
 **fole-del/fole-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
